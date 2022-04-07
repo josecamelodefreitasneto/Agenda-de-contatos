@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Cotroller
  */
-@WebServlet("/Cotroller")
+@WebServlet(urlPatterns ={"/Cotroller","/main"})
 public class Cotroller extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
