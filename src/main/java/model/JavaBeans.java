@@ -1,4 +1,4 @@
-package motel;
+package model;
 
 public class JavaBeans {
 	private String idicon;
