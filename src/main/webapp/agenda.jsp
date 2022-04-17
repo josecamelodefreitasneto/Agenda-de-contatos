@@ -4,13 +4,12 @@
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
+<title>Agenda de contatos</title>
 <link rel="icon" href="imagens/favicon.png">
 <link rel="stylesheet" href="style.css">
-<title>Agenda de contatos</title>
 </head>
 <body>
-<img src="imagens/agenda.png">
    <h1>Agenda de contatos</h1>
-   <a href="" class="botao1">Novo contato</a>
+   <a href="novo.html" class="Botao1">Novo contato</a>
 </body>
 </html>
