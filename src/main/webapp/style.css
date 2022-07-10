@@ -15,21 +15,46 @@ h1 {
 	border: 0;
 	cursor: pointer;
 }
-
-.caixa1 {
-      width: 320px;
-      padding: 5px;
-      margin-bottom: 10px;
-      border: 1px solid #66bbff;
-      border-radius: 5px;
+.Botao2 {
+	text-decoration: none;
+	background-color: #d51213;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
 }
 
- 
-  .caixa2 {
-      padding: 5px;
-      margin-bottom: 10px;
-      border: 1px solid #66bbff;
-      border-radius: 5px;
-  }
+.caixa1 {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
 
+.caixa2 {
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
 
+#caixa3 {
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ff0000;
+}
+
+#tabela th {
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: left;
+	background-color: #66bbff;
+	color: #fff;
+}
+
+#tabela td {
+	border: 1px solid #ddd;
+	padding: 10px;
+}

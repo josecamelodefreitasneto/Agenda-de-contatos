@@ -2,19 +2,19 @@
  * validação de formulário
  @author José Camêlo
  */
- 
- function validar(){
+
+function validar() {
 	let nome = frmcontato.nome.value
 	let fone = frmcontato.fone.value
-	if(nome ==="") {
+	if (nome === "") {
 		alert('Preencha o compo Nome')
 		frmcontato.nome.focus()
 		return false
-	}else if(fone ===""){
+	} else if (fone === "") {
 		alert('Preencha o compo Fone')
 		frmcontato.fome.focus()
 		return false
-	}else {
+	} else {
 		document.forms["frmcontato"].submit()
 	}
 }
